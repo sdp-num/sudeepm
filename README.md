@@ -1,1 +1,1 @@
-## Trying to make my first site
+## Trying to make a personal site
