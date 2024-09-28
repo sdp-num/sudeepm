@@ -1016,7 +1016,7 @@ I use this page to store the topics/contents in books for me to remember.
 - 1.5 Problems
 
 #### 2. Operator Algebra
-- 2.1 Algebra $\( \mathcal{A} (V) \)$
+- 2.1 Algebra $\( \mathcal{L} (V) \)$
 - 2.2 Derivatives of Functions of Operators
 - 2.3 Conjugation of Operators
 - 2.4 Hermitian and Unitary Operators
